@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/port"
+        android:orderInCategory="100"
+        android:title="port"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/land"
+        android:orderInCategory="100"
+        android:title="land"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/Exit"
+        android:orderInCategory="100"
+        android:title="@string/quit"
+        app:showAsAction="never" />
+</menu>

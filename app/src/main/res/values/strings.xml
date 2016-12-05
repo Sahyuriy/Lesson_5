@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">less5</string>
+    <string name="ActB">ActivityB</string>
+    <string name="quit">Quit</string>
+</resources>
